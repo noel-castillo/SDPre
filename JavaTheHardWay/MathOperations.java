@@ -35,6 +35,7 @@ public class MathOperations {
     int h;
     double w;
 
+    // Study Drill
     h = a + a;
     System.out.println( "a + a is " + h );
     w = x * 3;
