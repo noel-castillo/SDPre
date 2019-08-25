@@ -10,6 +10,7 @@ public class EnterPin{
 
     System.out.println("WELCOME TO THE BANK OF JAVA.");
 
+    //Study Drill portion
     System.out.print("ENTER YOUR PASSWORD: ");
     typedPassword = keyboard.nextLine();
 
